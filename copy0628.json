@@ -89,6 +89,41 @@
         ]
     },
     {
+    "Author": "The Combat Reborn Team",
+    "Name": "Rotation Solver Reborn",
+    "InternalName": "RotationSolver",
+    "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "Tags": [
+      "combat",
+      "rotation",
+      "auto",
+      "solver",
+      "pve",
+      "pvp"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+    "Punchline": "Analyses combat information every frame and finds the best action.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.85/RotationSolver.zip",
+    "AssemblyVersion": "7.2.5.85",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.85/RotationSolver.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.52/RotationSolver.zip",
+    "TestingAssemblyVersion": "7.2.5.52",
+    "Changelog": "## What's Changed\r\n* Added alt Mudra actions to base by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/860\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.84...7.2.5.85",
+    "DownloadCount": 1232370
+    },
+    {
         "Author": "croizat",
         "Name": "Something Need Doing",
         "Punchline": "Work work.",
