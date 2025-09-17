@@ -96,5 +96,33 @@
         "DalamudApiLevel": "13",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png"
+    },
+    {
+        "Author": "Herculezz, James, erdelf",
+        "Name": "AutoDuty",
+        "Punchline": "AutoDuty",
+        "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
+        "Tags": [],
+        "InternalName": "AutoDuty",
+        "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
+        "DownloadCount": 886805,
+        "LastUpdate": 1758032581538,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
+        "AssemblyVersion": "0.0.0.242",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "## What's Changed\r\n* (1111) The Antitower: Moved walk positions after boss by @Sky-Lochagos in https://github.com/ffxivcode/AutoDuty/pull/1104\r\n* (578) The Great Gubal Library (Hard): Adjusting moves and treasures by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1107\r\n* (974) Ktisis Hyperboreia: moved the 5s delay slightly for the leg 2 p… by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1109\r\n* (952) The Tower of Zot: W2W, Scene transitions and boss revival steps by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1111\r\n* (1208) Origenics: W2W added | AutoMove replaced by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1113\r\n* 172 Aurum Vale - added treasure chests by @Vijartal in https://github.com/ffxivcode/AutoDuty/pull/1115\r\n* fix desynth config disabled when AR is missing by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1117\r\n* package and ECommons update by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1118\r\n* adjusting waitingForCombat positional adjustment to work with either bm + debug listing of helpers fixed by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1120\r\n* (952) The Tower of Zot: Adjusted b2-b3 w2w stretches by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1121\r\n* fixing halatali squadron territory id by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1124\r\n* Multiboxing advancements.. nearly ready by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1126\r\n\r\n## New Contributors\r\n* @Sky-Lochagos made their first contribution in https://github.com/ffxivcode/AutoDuty/pull/1104\r\n\r\n**Full Changelog**: https://github.com/ffxivcode/AutoDuty/compare/0.0.0.241...0.0.0.242",
+        "TestingAssemblyVersion": "0.0.0.240",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+        "ImageUrls": [
+          "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+          "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+          "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+          "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+          "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+        ]
     }
 ]
